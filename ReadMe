@@ -1,0 +1,10 @@
+This is a big data project for loan risk prediction. 
+Data collection:
+The dataset is taken from Kaggle, and the subject it’s represented by the accepted loans from 2007 to 2018 in the USA, that contains detailed information and a variety of attributes that provide a view of the lending area during the mentioned period.
+Here you will find:
+-An in-depth EDA
+-Statistical analysis
+-Feature engineering
+-Data visualization
+-Dimensionality reduction using: PCA and LDA
+-ML techniques: Logistic Regression, Random Forest,Support Vector Machine, GBM
